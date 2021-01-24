@@ -1,0 +1,27 @@
+{
+  "name": "thai-covid-report",
+  "version": "1.0.0",
+  "description": "A simple command to get the Covid situation report from moph.go.th",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RealFilllykung/Thai-Covid-Report.git"
+  },
+  "keywords": [
+    "thai-covid",
+    "covid"
+  ],
+  "author": "Filllykung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RealFilllykung/Thai-Covid-Report/issues"
+  },
+  "homepage": "https://github.com/RealFilllykung/Thai-Covid-Report#readme"
+}
