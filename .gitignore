@@ -1,0 +1,7 @@
+#Default folder
+/node_modules
+
+#Example folder
+/Examples/node_modules
+/Examples/package.json
+/Examples/package-lock.json
