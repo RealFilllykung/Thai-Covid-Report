@@ -1,6 +1,6 @@
 {
   "name": "thai-covid-report",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple command to get the Covid situation report from moph.go.th",
   "main": "index.js",
   "dependencies": {
