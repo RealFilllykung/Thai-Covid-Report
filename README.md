@@ -1,7 +1,7 @@
 # Thai-Covid-Report
 This project is to make developer have an easier access to get the covid situation update data from covid19.ddc.moph.go.th
 # Installation
-You can install this package by using npm\
+You can install this package by using npm
 ```
 npm install thai-covid-report
 ```
