@@ -5,8 +5,8 @@ You can install this package by using npm\
 ```
 npm install thai-covid-report
 ```
-# Usage
-All of the example will be provided inside the Examples folder of this repo but here is the snippet of getting the amount of people who get infected today.
+# Sample Usage
+All of the example will be provided inside the Examples folder and [wiki page](https://github.com/RealFilllykung/Thai-Covid-Report/wiki) of this repo, but here is the sample snippet of getting the amount of people who get infected today.
 >todayInfected.js
 ```
 //Import the package
@@ -23,6 +23,8 @@ thaiCovid
         }
     )
 ```
+# Full Documentation
+The full documentation and examples snippet for this project is available inside the [wiki page](https://github.com/RealFilllykung/Thai-Covid-Report/wiki).
 # Credits
 This package will not be possible without the public API from https://covid19.ddc.moph.go.th/ and [Axios](https://github.com/axios/axios)
 
