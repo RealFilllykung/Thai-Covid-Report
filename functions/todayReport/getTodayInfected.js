@@ -4,9 +4,14 @@
 const axios = require('axios')
 
 async function getTodayInfected(){
-    const packet = await axios.get('https://covid19.th-stat.com/api/open/today')
-    const newConfirmed = packet.data.NewConfirmed
-    return newConfirmed
+    try{
+        const packet = await axios.get('https://covid19.th-stat.com/api/open/today')
+        const newConfirmed = packet.data.NewConfirmed
+        return parseInt(newConfirmed)
+    }
+    catch(err){
+        return err
+    }
 }
 
 module.exports = getTodayInfected

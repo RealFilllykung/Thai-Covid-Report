@@ -16,7 +16,11 @@ const thaiCovid = require('thai-covid-report')
 thaiCovid
     .getTodayInfected()
     .then(res => 
-        {console.log('New confirmed infected case: ' + res)}
+        {
+            //The res type is integer
+            const newInfected = res
+            console.log('Today confirmed case: ' + newInfected)
+        }
     )
 ```
 # Credits
