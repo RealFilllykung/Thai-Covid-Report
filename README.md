@@ -1,4 +1,4 @@
-# Thai-Covid-Report
+# Thai-Covid-Report ([EN](https://github.com/RealFilllykung/Thai-Covid-Report/blob/main/README.md)/[TH](https://github.com/RealFilllykung/Thai-Covid-Report/blob/main/README.th.md))
 This project is to make developer have an easier access to get the covid situation update data from covid19.ddc.moph.go.th
 # Installation
 You can install this package by using npm
@@ -6,9 +6,10 @@ You can install this package by using npm
 npm install thai-covid-report
 ```
 # Sample Usage
-All of the example will be provided inside the Examples folder and [wiki page](https://github.com/RealFilllykung/Thai-Covid-Report/wiki) of this repo, but here is the sample snippet of getting the amount of people who get infected today.
->todayInfected.js
-```
+All of the example are provided inside the Examples folder and [wiki page](https://github.com/RealFilllykung/Thai-Covid-Report/wiki) of this repo, but here is the sample snippet of getting the amount of people who get infected today.
+
+**getTodayInfected() example**
+```javascript
 //Import the package
 const thaiCovid = require('thai-covid-report')
 
