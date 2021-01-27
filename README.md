@@ -1,5 +1,5 @@
 # Thai-Covid-Report ([EN](https://github.com/RealFilllykung/Thai-Covid-Report/blob/main/README.md)/[TH](https://github.com/RealFilllykung/Thai-Covid-Report/blob/main/README.th.md))
-This project is to make developer have an easier access to get the covid situation update data from covid19.ddc.moph.go.th
+This project is to make developer have an easier access to get the covid situation update data from https://covid19.ddc.moph.go.th/
 # Installation
 You can install this package by using npm
 ```
