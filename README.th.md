@@ -1,5 +1,6 @@
 # Thai-Covid-Report ([EN](https://github.com/RealFilllykung/Thai-Covid-Report/blob/main/README.md)/[TH](https://github.com/RealFilllykung/Thai-Covid-Report/blob/main/README.th.md))
-โปรเจคนี้สร้างมาเพื่่อ developer ให้ได้เรียกข้อมูลเกี่ยวกับสถานการณ์ covid จาก covid19.ddc.moph.go.th ได้ง่ายขึ้น
+โปรเจคนี้สร้างมาเพื่่อ developer ให้ได้เรียกข้อมูลเกี่ยวกับสถานการณ์ covid จาก https://covid19.ddc.moph.go.th/ ได้ง่ายขึ้น
+
 # วิธีลง
 สามารถลง package นี้โดยใช้ npm
 ```

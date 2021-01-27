@@ -1,6 +1,6 @@
 {
   "name": "thai-covid-report",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A simple command to get the Covid situation report from moph.go.th",
   "main": "index.js",
   "dependencies": {
@@ -16,7 +16,10 @@
   },
   "keywords": [
     "thai-covid",
-    "covid"
+    "covid",
+    "covid-report",
+    "covid-19",
+    "thai"
   ],
   "author": "Filllykung",
   "license": "MIT",
