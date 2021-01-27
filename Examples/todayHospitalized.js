@@ -1,7 +1,7 @@
 //Import the package
 const thaiCovid = require('thai-covid-report')
 
-//Use the command to get amount of people who get infected on today
+//Use the command to get amount of people who get hospitalized today
 thaiCovid
     .getTodayHospitalized()
     .then(newHospitalized => 
